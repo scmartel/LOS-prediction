@@ -1,4 +1,4 @@
-# LOS-prediction
+# Hospital Patient Length-of-Stay (LOS) Prediction
 
 Machine learning and data mining techniques have been increasingly used to draw insights from healthcare data, which can aid public health agencies and hospitals in managing human and financial resources. Past studies in the field have examined the prevalence of intensive care admissions, diagnoses, and their complications, and have demonstrated growing potential to deliver impacts in the clinical setting [5]. For the current project, the Medical Information Mart for Intensive Care (MIMIC) database provides a comprehensive stream of patient hospitalization records that have proven useful in past descriptive, predictive, and hypothesis-driven studies
 
